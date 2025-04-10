@@ -181,7 +181,7 @@ function App() {
               className="md:w-1/2"
             >
               <img
-                src="https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80"
+                src="https://clevertap.com/wp-content/uploads/2023/11/WhatsApp-Business-Profile-Best-Practices-blog-header.png?w=768"
                 alt="Community Connection"
                 className="rounded-3xl shadow-2xl"
               />
